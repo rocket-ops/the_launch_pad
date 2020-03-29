@@ -1,6 +1,6 @@
 ﻿<#
 .Synopsis
-	Hi! My names Berry Langley and I am just learning this shit, so bear with me. 
+	Hi! My names Berry and I am just learning this shit, so bear with me. 
 	
    Used to take a list of strings from a text file and then extract matches from another file. 
 
@@ -26,7 +26,7 @@
        
 .EXAMPLE
         
-        Enter path and file name of txt file containing filters (will not work if spaces in directory name, yet): c:\cases\irip.txt
+        Enter path and file name of txt file containing filters (will not work if spaces in directory name, yet): c:\cases\keyword.txt
         Enter path and file name of content you want filtered: c:\cases\firewall.csv
         Enter path and file name of output file: c:\cases\106.csv
 
